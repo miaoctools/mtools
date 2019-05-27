@@ -20,11 +20,7 @@ module.exports = {
   //   })
   // },
   configureWebpack: () => {},
-  // configureWebpack: {
-  // options: {},
-  //   plugins: ['vux-ui'],
-  //   devtool: 'source-map'
-  // },
+
   // 生产环境是否生成 sourceMap 文件
   productionSourceMap: true, // 生产环境下css 分离文件
   // css相关配置
